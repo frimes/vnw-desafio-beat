@@ -129,10 +129,10 @@ h1{
 }
     @media (max-width: 468px){
         #main-down-box{
-            height: 50vh;
+            height: 55vh;
         }
     }
-    
+
 #main-first-down-box{
     display: block;
 }
